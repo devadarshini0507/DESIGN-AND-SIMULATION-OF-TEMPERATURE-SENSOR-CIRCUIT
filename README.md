@@ -1,27 +1,30 @@
 # DESIGN-AND-SIMULATION-OF-TEMPERATURE-SENSOR-CIRCUIT
 # AIM
-![WhatsApp Image 2025-11-21 at 21 10 53_57b77cb7](https://github.com/user-attachments/assets/fb5b0120-7834-4c4c-b345-80252ceb6130)
+<img width="1080" height="204" alt="image" src="https://github.com/user-attachments/assets/188214e2-48e0-43ca-9389-7607403ae828" />
+
 
 # COMPONENT REQUIRED
-![WhatsApp Image 2025-11-21 at 21 11 22_1619e915](https://github.com/user-attachments/assets/7a79c273-1234-483e-ba97-e55a82c9d555)
+<img width="1080" height="225" alt="image" src="https://github.com/user-attachments/assets/c085ffaf-a17a-4852-8689-33d650252f67" />
+
 # SOFTWARE REQUIRED 
-![WhatsApp Image 2025-11-21 at 21 11 45_487591c6](https://github.com/user-attachments/assets/584d023b-dab9-49c4-91e4-fb309f16756d)
+<img width="1080" height="114" alt="image" src="https://github.com/user-attachments/assets/44eb7c83-1e97-4761-96d5-4bba53037953" />
+
 
 # THEORY
 
-![WhatsApp Image 2025-11-21 at 21 12 06_4921e7a2](https://github.com/user-attachments/assets/4d30a941-7bee-4e01-b0db-dc0930ae3829)
+<img width="1033" height="329" alt="image" src="https://github.com/user-attachments/assets/3ee67787-9eb2-4aa7-8da6-b2e344b1ef3d" />
+
 
 # PROCEDURE 
+<img width="1280" height="857" alt="image" src="https://github.com/user-attachments/assets/8d7fcef4-1a5f-41bc-84ec-513c8e34d0a7" />
 
-![WhatsApp Image 2025-11-21 at 21 12 15_6d56f87c](https://github.com/user-attachments/assets/cd4600c6-8d7d-40ad-975e-cb652f825493)
 
 # CIRCUIT DIAGRAM
 
-![WhatsApp Image 2025-11-21 at 21 13 08_639ebcf6](https://github.com/user-attachments/assets/b76b059d-dcba-4a03-acae-002ac239ec23)
+<img width="940" height="1280" alt="image" src="https://github.com/user-attachments/assets/708e718c-2ac4-4275-84ba-cd10a16a80a6" />
 
 
 # RESULT
-![WhatsApp Image 2025-11-21 at 21 13 09_ae881650](https://github.com/user-attachments/assets/c6eca472-401f-4d11-91f7-21cda731318d)
 
-
+<img width="1280" height="434" alt="image" src="https://github.com/user-attachments/assets/3ae90ef4-88ab-4981-a6a2-8c5addb118c2" />
 
